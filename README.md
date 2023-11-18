@@ -1,2 +1,11 @@
 # ud-storerobbery
- standalone
+ 
+Standalone Basic Store Robbery Script
+
+Preview: https://streamable.com/j2pz4w
+My Discord: https://discord.gg/3uNZtd5pMK
+
+Dependencies: 
+ox_lib - https://github.com/overextended/ox_lib
+ox_inventory - https://github.com/overextended/ox_inventory
+ps-ui - https://github.com/Project-Sloth/ps-ui
