@@ -1,6 +1,8 @@
 # ud-storerobbery
  
 Standalone Basic Store Robbery Script
+Easily Add New Stores In Config File
+Easily Add New Frameworks
 
 Preview: https://streamable.com/j2pz4w
 My Discord: https://discord.gg/3uNZtd5pMK
